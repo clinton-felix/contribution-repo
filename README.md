@@ -2,8 +2,8 @@
 List of contributions for Task 1 to 3 in the Blockgames internship
 
 Task 3 Contributions:
-https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/cb237d034b8eb6ec787a307d5b076bf26484dd09
-Team Repo Creation and Environment Setup and Uploading to Github
+### https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/cb237d034b8eb6ec787a307d5b076bf26484dd09
+###### Team Repo Creation and Environment Setup and Uploading to Github
 
 https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/d9a0c066ec191c26287b6f91d105608ac9a0404a
 Team Structure organization instantiated
