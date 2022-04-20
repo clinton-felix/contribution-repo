@@ -5,11 +5,11 @@ List of contributions for Task 1 to 3 in the Blockgames internship
 > https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/cb237d034b8eb6ec787a307d5b076bf26484dd09
 > Team Repo Creation and Environment Setup and Uploading to Github
 
-https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/d9a0c066ec191c26287b6f91d105608ac9a0404a
-Team Structure organization instantiated
+> https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/d9a0c066ec191c26287b6f91d105608ac9a0404a
+> Team Structure organization instantiated
 
-https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/43001dc9af465a76c28693f75d2b7c83e8fd4767
-Initial Contract Skeleton Setup and Instantiation
+> https://github.com/BLOCKGAMES-TEAM-R/Zuri-Elections-Portal/commit/43001dc9af465a76c28693f75d2b7c83e8fd4767
+> Initial Contract Skeleton Setup and Instantiation
 
 
 
@@ -29,6 +29,6 @@ Initial Contract Skeleton Setup and Instantiation
 
 
 
-Task 1 Contributions:
-We contributed as a group.
-I worked with Team Wakanda and our contributions were pooled and contributed from a single upload point.
+## Task 1 Contributions:
+> We contributed as a group.
+> I worked with Team Wakanda and our contributions were pooled and contributed from a single upload point.
